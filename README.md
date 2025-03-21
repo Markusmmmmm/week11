@@ -40,4 +40,4 @@ Run Ansible Playbook:
 ```
 ansible-playbook playbook.yml --verbose
 ```
-![alt text](victory_screenshot.png)
+<img width="315" alt="Screenshot 2025-03-21 152122" src="https://github.com/user-attachments/assets/870f69a2-d657-42ad-9f77-a4bc1796d479" />
